@@ -4,6 +4,8 @@
 
 Matches the same employee across HR systems, finds and explains every inconsistency, suggests the most likely correct value with its sources, ranks by business impact and shows what each fix would touch.
 
+**Demo video (under 3 minutes):** https://www.loom.com/share/8db6985d89534427962557e2abb8b3cf
+
 **Live prototype:** https://aonami-sijil.vercel.app. It is hosted, needs no install, and runs entirely in your browser with no cloud AI. Press **Guided demo** for a walk-through.
 
 ## Results on our held-out test set
