@@ -1,0 +1,8 @@
+CORE 5027, PAYROLL 5014, LEARNING 4802, ACCESS 5022 records
+18 job codes, 10 departments, 7 locations, 10 nationalities in the data dictionary
+4 feeds and 8 reports in the dependencies file
+322 issues in 1277 ms
+Matching: 14806/14806 correct (100.00%), 0 wrong, 0 missed, 0 ghosts wrongly matched; by method: PAYROLL {"ID":4982,"name + birth date":20}; ACCESS {"ID":5002}; LEARNING {"email":4802}
+Detection: precision 100.0%, recall 100.0% (322/322), 0 false positives
+Suggested value correct: 254/254
+By type: duplicate_record 25/25, leaver_still_paid 20/20, ghost_record 20/20, leaver_access_active 30/30, dob_conflict 30/30, hire_date_conflict 25/25, job_code_conflict 30/30, grade_conflict 25/25, cost_centre_conflict 20/20, invalid_code 25/25, missing_value 25/25, out_of_date 20/20, invalid_manager 12/12, status_conflict 15/15
